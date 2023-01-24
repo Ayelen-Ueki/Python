@@ -1,0 +1,6 @@
+README.md
+setup.py
+segundaPreEntrega.egg-info/PKG-INFO
+segundaPreEntrega.egg-info/SOURCES.txt
+segundaPreEntrega.egg-info/dependency_links.txt
+segundaPreEntrega.egg-info/top_level.txt

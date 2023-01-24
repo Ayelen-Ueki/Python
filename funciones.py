@@ -1,13 +1,14 @@
-def registro(): 
+"""def registro(): 
     nombre = input("Por favor ingrese un Nombre de Usuario: ")
     contra = ""
     edad: input("Qué edad tenés?")
+    email: input("Por favor ingrese su correo electrónico")
 
 
-    while len(Contraseña)<8:
+    while len(contra)<8:
       contra = input("Por favor ingrese una contraseña con un mínimo de 8 caracteres: ")
       
-    usuarioNuevo = {"NOMBRE":nombre,"PASS":contra, "EDAD": edad}
+    usuarioNuevo = {"NOMBRE":nombre,"PASS":contra, "EDAD": edad, "EMAIL": email}
     usuarios = []
     usuarios.append(usuarioNuevo)
 
@@ -22,7 +23,7 @@ def ingreso():
 
     for x in registro: 
         if registro["NOMBRE"] == nombreIngresado and registro["CONTRASEÑA"] == contraseñaIngresada:
-            print("Has ingresado exitosamente")
+            print("Has ingresado exitosamente")"""
 
 def salir():
   print("Hasta pronto!")
